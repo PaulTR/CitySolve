@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "935376220531",
+    "firebase_url": "https://citysolve-aa68d.firebaseio.com",
+    "project_id": "citysolve-aa68d",
+    "storage_bucket": "citysolve-aa68d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935376220531:android:b267dd273c6588f5",
+        "android_client_info": {
+          "package_name": "com.citysolve.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935376220531-al2h1sjfphv5hd50smorod4kb39c1vd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6eN6TWxzAncu0BrGrD53wJVgClHVx77o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
